@@ -3,346 +3,355 @@
   "moduleName": "tenant",
   "citymodule": [
     {
-      "module": "Works",
-      "code": "Works",
-      "active": true,
-      "order": 1,
-      "tenants": [
+    "module": "FSM",
+    "code": "FSM",
+    "bannerImage": "https://egov-qa-assets.s3.amazonaws.com/FSM.png",
+    "active": true,
+    "order": 2,
+    "tenants": [
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.citya"
+            "code": "pg.citya"
         }
-      ]
-    },
-    {
-      "module": "AttendenceMgmt",
-      "code": "AttendenceMgmt",
-      "active": true,
-      "order": 4,
-      "tenants": [
+    ]
+  },
+  {
+    "module": "PGR",
+    "code": "PGR",
+    "bannerImage": "https://egov-qa-assets.s3.amazonaws.com/PGR.png",
+    "active": true,
+    "order": 2,
+    "tenants": [
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.citya"
+            "code": "pg.citya"
         }
-      ]
-    },
-    {
-      "module": "Contracts",
-      "code": "Contracts",
-      "active": true,
-      "order": 5,
-      "tenants": [
+    ]
+  },
+  {
+    "module": "PT",
+    "code": "PT",
+    "bannerImage": "https://egov-qa-assets.s3.amazonaws.com/PT.png",
+    "active": true,
+    "order": 1,
+    "tenants": [
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.citya"
+            "code": "pg.citya"
         }
-      ]
-    },
-    {
-      "module": "Expenditure",
-      "code": "Expenditure",
-      "active": true,
-      "order": 7,
-      "tenants": [
+    ]
+  },
+  {
+    "module": "Payment",
+    "code": "Payment",
+    "active": true,
+    "order": 1,
+    "tenants": [
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.citya"
+            "code": "pg.citya"
         }
-      ]
-    },
-    {
-      "module": "Engagement",
-      "code": "Engagement",
-      "active": false,
-      "order": 4,
-      "tenants": [
+    ]
+  },
+  {
+    "module": "Receipts",
+    "code": "Receipts",
+    "active": true,
+    "order": 3,
+    "tenants": [
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.citya"
+            "code": "pg.citya"
         }
-      ]
-    },
-    {
-      "module": "HRMS",
-      "code": "HRMS",
-      "active": true,
-      "order": 2,
-      "tenants": [
+    ]
+  },
+  {
+    "module": "NOC",
+    "code": "NOC",
+    "active": true,
+    "order": 2,
+    "tenants": [
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.citya"
+            "code": "pg.citya"
         }
-      ]
-    },
-    {
-      "module": "Estimate",
-      "code": "Estimate",
-      "active": true,
-      "order": 3,
-      "tenants": [
+    ]
+  },
+  {
+    "module": "DSS",
+    "code": "DSS",
+    "active": true,
+    "order": 6,
+    "tenants": [
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.citya"
+            "code": "pg.citya"
         }
-      ]
-    },
-    {
-      "module": "Masters",
-      "code": "Masters",
-      "active": true,
-      "order": 6,
-      "tenants": [
+    ]
+  },
+  {
+    "module": "Engagement",
+    "code": "Engagement",
+    "active": true,
+    "order": 3,
+    "tenants": [
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.citya"
+            "code": "pg.citya"
         }
-      ]
-    },
-    {
-      "module": "Project",
-      "code": "Project",
-      "active": true,
-      "order": 8,
-      "tenants": [
+    ]
+  },
+  {
+    "module": "MCollect",
+    "code": "MCollect",
+    "active": true,
+    "order": 1,
+    "tenants": [
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.citya"
+            "code": "pg.citya"
         }
-      ]
-    },
-    {
-      "module": "Mukta",
-      "code": "Mukta",
-      "active": true,
-      "order": 9,
-      "tenants": [
+    ]
+  },
+  {
+    "module": "HRMS",
+    "code": "HRMS",
+    "active": true,
+    "order": 2,
+    "tenants": [
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.citya"
+            "code": "pg.citya"
         }
-      ]
-    },
-    {
-      "module": "DSS",
-      "code": "DSS",
-      "active": true,
-      "order": 10,
-      "tenants": [
+    ]
+  },
+  {
+    "module": "QuickPayLinks",
+    "code": "QuickPayLinks",
+    "active": true,
+    "order": 1,
+    "tenants": [
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.citya"
+            "code": "pg.citya"
         }
-      ]
-    },
-    {
-      "module": "Utilities",
-      "code": "Utilities",
-      "active": true,
-      "order": 11,
-      "tenants": [
+    ]
+  },
+  {
+    "module": "Finance",
+    "code": "Finance",
+    "active": false,
+    "order": 4,
+    "tenants": [
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.citya"
+            "code": "pg.citya"
         }
-      ]
-    },
-    {
+    ]
+  },
+  {
+    "module": "TL",
+    "code": "TL",
+    "bannerImage": "https://egov-qa-assets.s3.amazonaws.com/TL.png",
+    "active": true,
+    "order": 2,
+    "tenants": [
+        {
+            "code": "pg.citya"
+        }
+    ]
+  },
+  {
+    "module": "FIRENOC",
+    "code": "FIRENOC",
+    "active": false,
+    "order": 2,
+    "tenants": [
+        {
+            "code": "pg.citya"
+        }
+    ]
+  },
+  {
+    "module": "BPAAPPLY",
+    "code": "BPAAPPLY",
+    "bannerImage": "https://egov-qa-assets.s3.amazonaws.com/OBPS.png",
+    "active": true,
+    "order": 2,
+    "tenants": [
+        {
+            "code": "pg.citya"
+        }
+    ]
+  },
+  {
+    "module": "BPAREG",
+    "code": "BPAREG",
+    "bannerImage": "https://egov-qa-assets.s3.amazonaws.com/OBPS.png",
+    "active": true,
+    "order": 2,
+    "tenants": [
+        {
+            "code": "pg.citya"
+        }
+    ]
+  },
+  {
+    "module": "OBPS",
+    "code": "OBPS",
+    "bannerImage": "https://egov-qa-assets.s3.amazonaws.com/OBPS.png",
+    "active": true,
+    "order": 2,
+    "tenants": [
+        {
+            "code": "pg.citya"
+        }
+    ]
+  },
+  {
+    "module": "PGR.WHATSAPP",
+    "code": "PGR.WHATSAPP",
+    "active": false,
+    "order": 4,
+    "tenants": [
+        {
+            "code": "pg.citya"
+        }
+    ]
+  },
+  {
+    "module": "UC",
+    "code": "UC",
+    "active": false,
+    "order": 2,
+    "tenants": [
+        {
+            "code": "pg.citya"
+        }
+    ]
+  },
+  {
+    "module": "WS",
+    "code": "WS",
+    "bannerImage": "https://egov-qa-assets.s3.amazonaws.com/WS.png",
+    "active": true,
+    "order": 1,
+    "tenants": [
+        {
+            "code": "pg.citya"
+        }
+    ]
+  },
+  {
+    "module": "CommonPT",
+    "code": "CommonPT",
+    "active": true,
+    "order": 3,
+    "tenants": [
+        {
+            "code": "pg.citya"
+        }
+    ]
+  },
+  {
+    "module": "NDSS",
+    "code": "NDSS",
+    "active": true,
+    "order": 5,
+    "tenants": [
+        {
+            "code": "pg.citya"
+        }
+    ]
+  },
+  {
+    "module": "Reports",
+    "code": "Reports",
+    "active": true,
+    "order": 4,
+    "tenants": [
+        {
+            "code": "pg.citya"
+        }
+    ]
+  },
+  {
+    "module": "Bills",
+    "code": "Bills",
+    "bannerImage": "https://egov-qa-assets.s3.amazonaws.com/Bill.png",
+    "active": true,
+    "order": 3,
+    "tenants": [
+        {
+            "code": "pg.citya"
+        }
+    ]
+  },
+  {
+    "module": "SW",
+    "code": "SW",
+    "active": true,
+    "order": 1,
+    "tenants": [
+        {
+            "code": "pg.citya"
+        }
+    ]
+  },
+  {
+    "module": "BillAmendment",
+    "code": "BillAmendment",
+    "active": true,
+    "order": 1,
+    "tenants": [
+        {
+            "code": "pg.citya"
+        }
+    ]
+  },
+  {
       "module": "Workbench",
       "code": "Workbench",
       "active": true,
       "order": 13,
       "tenants": [
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.citya"
+            "code": "pg.citya"
         }
+
       ]
-    },
+  },
+  {
+    "module": "Tqm",
+    "code": "Tqm",
+    "active": true,
+    "order": 14,
+    "tenants": [
+        {
+            "code": "pg.citya"
+        }
+    ]
+  },
     {
-      "module": "Measurement",
-      "code": "Measurement",
-      "active": true,
-      "order": 13,
-      "tenants": [
+         "module": "Utilities",
+         "code": "Utilities",
+         "active": true,
+         "order": 11,
+         "tenants": [
+            {
+                "code": "pg.citya"
+            }
+         ]
+  },
+  {
+    "module": "Project",
+    "code": "Project",
+    "active": true,
+    "order": 8,
+    "tenants": [
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.citya"
+            "code": "pg.citya"
         }
-      ]
-    },
-    {
-      "module": "Sample",
-      "code": "Sample",
-      "active": true,
-      "order": 12,
-      "tenants": [
+    ]
+  },
+  {
+    "module": "Sample",
+    "code": "Sample",
+    "active": true,
+    "order": 12,
+    "tenants": [
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.citya"
+            "code": "pg.citya"
         }
-      ]
-    },
-    {
-      "module": "Tqm",
-      "code": "Tqm",
-      "active": true,
-      "order": 14,
-      "additionalComponent": "TqmAdminNotification",
-      "tenants": [
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.citya"
-        }
-      ]
-    },
-    {
-      "module": "FSM",
-      "code": "FSM",
-      "bannerImage": "https://egov-qa-assets.s3.amazonaws.com/FSM.png",
-      "active": true,
-      "order": 2,
-      "tenants": [
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.citya"
-        }
-      ]
-    },
-    {
-      "module": "Payment",
-      "code": "Payment",
-      "active": true,
-      "order": 1,
-      "tenants": [
-        {
-          "code": "pb.jalandhar"
-        },
-        {
-          "code": "pb.phagwara"
-        },
-        {
-          "code": "pb.amritsar"
-        }
-      ]
-    },
-    {
-      "module": "Campaign",
-      "code": "Campaign",
-      "active": true,
-      "order": 14,
-      "tenants": [
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.citya"
-        }
-      ]
-    },
-    {
-      "code": "HCMWORKBENCH",
-      "order": 14,
-      "active": true,
-      "module": "HCMWORKBENCH",
-      "tenants": [
-        {
-          "code": "pg.citya"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        }
-      ]
-    }
+    ]
+  }
   ]
 }
